@@ -567,7 +567,7 @@ def generate_readme():
         "## Reproduction Steps",
         "",
         "1. Clone the repository",
-        "   git clone https://github.com/YOUR_USERNAME/Amdari_P1.git",
+        "   git clone https://github.com/Shorller/Amdari_P1.git",
         "",
         "2. Install dependencies",
         "   pip install -r requirements.txt",
@@ -605,4 +605,38 @@ def generate_readme():
               'w', encoding='utf-8') as f:
         f.write(readme_content)
 
-    print(" ✅ README.md generated")
+    print(" ✅ README.md generated")   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
