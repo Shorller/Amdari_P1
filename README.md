@@ -361,7 +361,7 @@ streamlit run app.py
 https://github.com/Shorller/Amdari_P1
 
 **Live Streamlit application:**  
-*Link will be added after deployment.*
+https://nutriglyc-glucose-spike.streamlit.app/
 
 ---
 
